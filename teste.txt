@@ -7,4 +7,9 @@ Bem-vind@ ao projeto Palomakoba
 Vamos aprender fundamentos do Git?
 
 Claro!
+<<<<<<< HEAD
 
+=======
+Qual seu nome?
+Cavalo.
+>>>>>>> teste1
