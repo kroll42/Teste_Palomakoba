@@ -2,6 +2,9 @@ Este é um teste para o Git,
 Olá Mundo!
 Eu sou o Selo de Metatron, participante no culto de Silent Hill!
 
+Bem-vind@ ao projeto Palomakoba
+
 Vamos aprender fundamentos do Git?
 
 Claro!
+
