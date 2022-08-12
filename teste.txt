@@ -1,3 +1,7 @@
 Este é um teste para o Git,
 Olá Mundo!
 Eu sou o Selo de Metatron, participante no culto de Silent Hill!
+
+Vamos aprender fundamentos do Git?
+
+Claro!
